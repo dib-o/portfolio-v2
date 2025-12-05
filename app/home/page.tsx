@@ -1,7 +1,7 @@
 "use client";
 
 import clsx from "clsx";
-import bgHomeL from "@/app/images/Home/landscapes.png";
+import bgHomeL from "@/app/images/home/landscapes.png";
 import bgHomeP from "@/app/images/home/portrait.jpg";
 import cover from "@/app/images/home/cover.jpg";
 import { useEffect, useState } from "react";
